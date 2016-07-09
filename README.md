@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+This is the beginning of the Revolution.
+
+Change is coming.
